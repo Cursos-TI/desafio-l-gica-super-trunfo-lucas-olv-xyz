@@ -62,7 +62,7 @@ supertrunfo.exe
 
 ---
 
-## ✍️ Autor
+## obs
 
 Feito como parte de exercícios de lógica e estruturas condicionais em C.
 
