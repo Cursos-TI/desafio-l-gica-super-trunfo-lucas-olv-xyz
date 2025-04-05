@@ -11,7 +11,7 @@ O jogo já vem com duas cartas cadastradas:
 - **Carta 1**: São Paulo
 - **Carta 2**: Rio de Janeiro
 
-O usuário escolhe um atributo no menu para comparar entre as duas cidades, e o programa informa qual delas venceu com base no valor do atributo escolhido.
+O usuário escolhe dois atributo no menu para comparar entre as duas cidades, e o programa informa qual delas venceu com base no valor dos atributo escolhidos.
 
 ---
 
@@ -50,8 +50,6 @@ supertrunfo.exe
 3. PIB (em bilhões de reais)
 4. Número de pontos turísticos
 5. Densidade populacional
-6. Regras do jogo
-7. Sair
 
 ---
 
